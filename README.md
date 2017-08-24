@@ -63,7 +63,7 @@ REMINDER: You can't get one to one models, so don't expect everything to work pe
 
 ## Authors
 
-* **Anooj Patel** - *Initial work* - [PurpleBooth](https://github.com/FuturizeHandgun)
+* **Anooj Patel** - *Initial work* - [FuturizeHandgun](https://github.com/FuturizeHandgun)
 
 
 ## License
