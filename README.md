@@ -1,7 +1,7 @@
 # Keras2Caffe
-
-This is a script that takes Keras models and builds caffe models
-from the common Keras layers into caffe NetSpecs, and into prototext files.
+### Keras to Caffe
+This is a script that converts Keras models to Caffe models
+from the common Keras layers into caffe NetSpecs, and into prototext and caffemodel files.
 This allows you to pipe directly into your favorite Caffe framework of choice.
 
 Be aware that Keras has much more flexible functionality and thus will miss
