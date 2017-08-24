@@ -68,7 +68,7 @@ REMINDER: You can't get one to one models, so don't expect everything to work pe
 
 ## License
 
-This project is licensed under the MIT License 
+This project is licensed under the Apache License 
 
 ## Acknowledgments
 
